@@ -1,2 +1,9 @@
 Este archivo sera utilizado para emular modificaciones en el proyecto colaborativo"
 Juan Pablo Doddoli Rodriguez 
+
+Rodrigo Girón Lugo
+
+El repositorio remoto actualizado se puede encontrar en las url's
+
+https://github.com/rodrigo-giron/tarea_colaborativo
+https://github.com/Doddoli/tarea_colaborativo
